@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Oldwick Community Players]]></title>
+        <description><![CDATA[Oldwick Community Players]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 00:06:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Oldwick Community Players Inc. is a non profit community theater group, whose objective is to stimulate interest in drama and the arts, offering individuals opportunity for self expression in all of the arts of theater, including plays, musicals and concerts and provide educational experiences for “actors” of all ages.</p>]]></description>
+            <link>undefinedoldwick-community-players-inc-is-a-non-profit-community-the/index.html</link>
+            <guid isPermaLink="false">dfd8b214-d9fa-498b-8363-f6fc69f7a1dc</guid>
+            <pubDate>Tue, 05 Jul 2016 00:06:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
